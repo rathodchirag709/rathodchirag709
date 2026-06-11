@@ -91,20 +91,20 @@ Aspiring Full Stack Developer skilled in JavaScript, Node.js, Express.js, MongoD
 </table>
 
 ---
-
-## Problem Solving
+## LeetCode Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/Chirag_416/">
-    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img width="48%" src="https://leetcard.jacoblin.cool/Chirag_416?theme=dark&font=Baloo_2&border=0&radius=10" />
+  </a>
+  <a href="https://leetcode.com/u/Chirag_416/">
+    <img width="48%" src="https://leetcard.jacoblin.cool/Chirag_416?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=10" />
   </a>
 </p>
 
 <p align="center">
   Regularly practicing DSA and competitive programming to improve logic building, coding speed, and problem-solving accuracy.
 </p>
-
----
 
 ## GitHub Stats
 
