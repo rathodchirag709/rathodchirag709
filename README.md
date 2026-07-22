@@ -64,13 +64,13 @@ Aspiring Full Stack Developer skilled in JavaScript, Node.js, Express.js, MongoD
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Portfolio Website</h3>
+      <h3 align="center">VehicleCare Pro</h3>
       <p>
-        Personal portfolio website showcasing skills, projects, contact details, and developer profile in a responsive layout.
+        Full-stack MERN vehicle service booking platform with JWT authentication, role-based dashboards, customer booking flow, admin mechanic assignment, mechanic job tracking, and MongoDB data persistence.
       </p>
-      <p><b>Tech:</b> HTML, CSS, JavaScript</p>
+      <p><b>Tech:</b> React.js, Node.js, Express.js, MongoDB, JWT, Vite</p>
       <p align="center">
-        <a href="https://github.com/rathodchirag709/chirag-rathod-portfolio">
+        <a href="https://github.com/rathodchirag709/VehicleCare-Pro">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -91,6 +91,7 @@ Aspiring Full Stack Developer skilled in JavaScript, Node.js, Express.js, MongoD
 </table>
 
 ---
+
 ## LeetCode Profile
 
 <p align="center">
@@ -109,8 +110,8 @@ Aspiring Full Stack Developer skilled in JavaScript, Node.js, Express.js, MongoD
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rathodchirag709&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathodchirag709&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rathodchirag709&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathodchirag709&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
